@@ -1,0 +1,18 @@
+Algoritmo de cálculo de potência: um algoritmo que calcula a potência de um número, elevando-o a uma determinada potência.
+
+x=numero
+
+y=determinada potencia
+
+Leia x
+Leia Y
+
+
+z=x**y
+
+
+eleve x a y vezes
+
+print("o valor de", x, "elevado a", y, ,"é" ,z)
+
+escreva o resultado do valor do numero elevado a deteminada potencia.
