@@ -1,0 +1,4 @@
+leia X
+LEIA Y
+soma=X+Y
+print("soma")
