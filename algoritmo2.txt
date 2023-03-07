@@ -1,0 +1,11 @@
+Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou vice-versa.
+
+x= celsius
+Leia X
+y=fahrenheit
+Leia y
+z= x/5=y-39
+
+
+
+print ("o valor de celsius para fahrenheit é de," z)
